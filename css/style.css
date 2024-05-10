@@ -13,7 +13,7 @@ body{
 img{
     width: 50rem;
     position: absolute;
-    top: 50%;
+    top: 20%;
     left: 50%;
     transform: translate(-50%, 10%);
 }
@@ -22,6 +22,6 @@ img{
 @media (width < 999px)
 {
     img{
-        width: 23rem;
+        width: 18rem;
     }
 }
